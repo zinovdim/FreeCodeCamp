@@ -9,6 +9,7 @@ function phoneticLookup(val) {
     "delta": "Denver",
     "echo": "Easy",
     "foxtrot": "Frank"
+    "gamma": "Eagle"
   };
   // Only change code below this line
 
